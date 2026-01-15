@@ -2,9 +2,9 @@
 Source data to all display items in publication "A Metal Hydride Compressor Concept using Hydrogen as a Heat Transfer Fluid" in Nature Communications Engineering.
 
 # Contents
-Source Data Figure 2.xlsx
-Source Data Figure 3.xlsx
-Source Data Figure 4.xlsx
+Source Data Figure 2.xlsx, 
+Source Data Figure 3.xlsx, 
+Source Data Figure 4.xlsx, 
 Source Data Figure 5.xlsx
 
 # Licence
